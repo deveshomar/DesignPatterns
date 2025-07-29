@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DesignPattern-Strategy/.vs
+/.vs
+/DesignPattern-Strategy/DesignPattern-Strategy/bin/Debug/net8.0
+/DesignPattern-Strategy/DesignPattern-Strategy/obj
